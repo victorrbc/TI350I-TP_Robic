@@ -1,3 +1,5 @@
+package org.example;
+
 public class SonarQube02 {
 
     String printNumbers(String stringToAdd, int x, int y) {
